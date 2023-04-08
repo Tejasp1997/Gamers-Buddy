@@ -1,0 +1,48 @@
+.first {
+    background-color: lightblue;
+    width: 100%;
+    height: 100vh;
+    border: 1px solid #f1f1f1;
+    perspective: 1000px;
+  }
+  .sec{
+    background-color: rgb(1, 226, 247);
+    position: absolute;
+    border: 2px solid rgb(182, 2, 2);
+    border-radius: 15px;
+    padding: 50px;
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+    top: 80px;
+    left: 450px;
+    box-shadow: 5px 10px #888888;
+    
+  }
+  .sec h2{
+    text-align: center;
+  }
+  .sec h5{
+    text-align: center;
+  }
+  .box{
+    background-color: rgb(1, 226, 247);
+    position: absolute;
+    border: 2px solid rgb(182, 2, 2);
+    border-radius: 15px;
+    padding: 50px;
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+    top: 280px;
+    left: 450px;
+    box-shadow: 5px 10px #888888;
+    text-align: center;
+  }
+  .nav ul{
+    position: absolute;
+    margin-left: -50px;
+    
+    top: -10px;
+  }
+  
